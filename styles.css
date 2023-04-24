@@ -1,0 +1,135 @@
+body {
+  background-image: url("./assets/fundo.png");
+  background-size: 1440px 900px 1713px 15712px;
+}
+
+footer {
+  margin-left: 100px;
+  background-color: #ffffff;
+}
+
+#logo_jc {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+#TextXS {
+  font-family: inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #737b7d;
+}
+
+#TextBig {
+  font-family: inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+  color: #e86a50;
+}
+
+#TextMedium {
+  font-family: inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.015em;
+  text-align: left;
+  color: #373f41;
+}
+
+#TextEmail {
+  font-family: inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 37px;
+  letter-spacing: -0.015em;
+  text-align: left;
+  color: #373f41;
+}
+
+#p {
+  font-family: inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.30000001192092896px;
+  text-align: center;
+  color: #373f41;
+}
+
+#a {
+  font-family: inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 37px;
+  letter-spacing: -0.015em;
+  text-align: left;
+  color: #e86a50;
+}
+
+#info {
+  margin-top: 80px;
+  margin-left: 100px;
+}
+
+#coverImage {
+  margin-bottom: 80px;
+}
+
+#company {
+  font-size: small;
+  margin-left: 370px;
+}
+
+#qrCode {
+  margin-bottom: 60px;
+}
+
+#button {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  color: white;
+  background-color: tomato;
+  border: none;
+  font-size: small;
+  height: 2rem;
+  border: 1px solid #e86a50;
+}
+
+#email {
+  float: left;
+  /*  background-color:blanchedalmond; */
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 400px;
+  height: 2rem;
+  padding: 15px;
+  border: 1px solid #e86a50;
+  font-size: small;
+}
+
+.center {
+  display: inline-block;
+}
+
+.jobCoach__footer {
+  display: inline-block;
+  margin-right: 12px;
+  font-family: inter;
+}
+
+.linkedin-link {
+  text-decoration: none;
+}
